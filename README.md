@@ -1,5 +1,7 @@
 # Genome mapping
 
+Highlights source black, CDS yellow, and gene blue. Labels the coding sequence (CDS) for each gene.
+
 ## Libraries used
 - [DnaFeaturesViewer](https://www.biorxiv.org/content/10.1101/2020.01.09.900589v1.full.pdf)
 
