@@ -1,7 +1,7 @@
 # Genome mapping
 
 ## Libraries used
-- DnaFeaturesViewer (requires matplotlib, Biopython)
+- [DnaFeaturesViewer](https://www.biorxiv.org/content/10.1101/2020.01.09.900589v1.full.pdf)
 
 <!--
 ## No Collaboration Policy
