@@ -6,7 +6,7 @@ Highlights source black, CDS yellow, and gene blue. Labels the coding sequence (
 - [DnaFeaturesViewer](https://www.biorxiv.org/content/10.1101/2020.01.09.900589v1.full.pdf)
 
 ## Explanation
-I used the DnaFeaturesViewer library to draw the genome map, which uses the Biopython library to translate the Genbank file. After reading the documentation for DnaFeaturesViewer and plotting the genome map, I decided to add custom colors and label only the CDS to make it more readable.
+I used the DnaFeaturesViewer library to draw the genome map, which uses the Biopython library to parse the Genbank file. After reading the documentation for DnaFeaturesViewer and plotting the genome map, I decided to add custom colors and label only the CDS to make it more readable.
 
 <!--
 ## No Collaboration Policy
